@@ -1,5 +1,4 @@
-**E-Commerce Platform using Nodejs, Express ,MongoDB & React**
-
+**Employee Management System **
 
 The employee management application is a comprehensive tool designed to manage employee records efficiently.
 
